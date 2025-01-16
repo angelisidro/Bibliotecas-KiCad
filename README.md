@@ -1,0 +1,2 @@
+# Bibliotecas-KiCad
+ Bibliotecas KiCad
